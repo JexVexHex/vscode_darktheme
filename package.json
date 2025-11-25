@@ -1,5 +1,5 @@
 {
-  "name": "kryptonite-theme",
+  "name": "oldtime-theme",
   "displayName": "Oldtime Theme",
   "description": "A black background with greenscreen green text theme",
   "version": "1.0.0",
@@ -14,7 +14,7 @@
       {
         "label": "Oldtime",
         "uiTheme": "vs-dark",
-        "path": "./kryptonite-theme.json"
+        "path": "./oldtime-theme.json"
       }
     ]
   }
