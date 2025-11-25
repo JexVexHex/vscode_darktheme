@@ -1,0 +1,21 @@
+{
+  "name": "kryptonite-theme",
+  "displayName": "Kryptonite Theme",
+  "description": "A black background with greenscreen green text theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kryptonite",
+        "uiTheme": "vs-dark",
+        "path": "./kryptonite-theme.json"
+      }
+    ]
+  }
+}
