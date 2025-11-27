@@ -22,5 +22,10 @@
         "path": "./oldtime-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^2.0.55",
+    "@google/gemini-cli": "^0.18.4",
+    "kilo": "^0.0.0"
   }
 }
