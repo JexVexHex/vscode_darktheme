@@ -1,7 +1,7 @@
 {
-  "name": "oldtime-theme",
-  "displayName": "Oldtime Theme",
-  "description": "A black background with greenscreen green text theme",
+  "name": "oldtime-yellow-theme",
+  "displayName": "Oldtime Yellow Theme",
+  "description": "A black background with yellowscreen yellow theme",
   "version": "1.0.0",
   "publisher": "JexVexHex",
   "engines": {
@@ -17,15 +17,11 @@
   "contributes": {
     "themes": [
       {
-        "label": "Oldtime",
+        "label": "Oldtime Yellow",
         "uiTheme": "vs-dark",
-        "path": "./oldtime-theme.json"
+        "path": "./oldtime-yellow-theme.json"
       }
     ]
   },
-  "dependencies": {
-    "@anthropic-ai/claude-code": "^2.0.55",
-    "@google/gemini-cli": "^0.18.4",
-    "kilo": "^0.0.0"
-  }
+  "dependencies": {}
 }

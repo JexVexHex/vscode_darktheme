@@ -1,0 +1,27 @@
+{
+  "name": "oldtime-green-theme",
+  "displayName": "Oldtime Green Theme",
+  "description": "A black background with greenscreen green text theme",
+  "version": "1.0.0",
+  "publisher": "JexVexHex",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JexVexHex/vscode_darktheme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oldtime Green",
+        "uiTheme": "vs-dark",
+        "path": "./oldtime-green-theme.json"
+      }
+    ]
+  },
+  "dependencies": {}
+}
